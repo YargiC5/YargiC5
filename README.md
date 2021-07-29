@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eren Yargici
 - 👀 I’m interested in Business Cybersecutiy
-- 🌱 I’m currently studying International Business
+- 🌱 I’m currently studying towards my BBA at Temple University
 - 📫 Can reach me by email at Eren.Yargici@temple.edu
 
 <!---
